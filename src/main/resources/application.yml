@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-boot-mybatis-plus
+  profiles:
+    active: dev
+
+server:
+  port: 8081
+
